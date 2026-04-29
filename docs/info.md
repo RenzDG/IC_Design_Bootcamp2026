@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How IT WORKS EDITTED 
 
-Explain how your project works 
+Explain how your project works dsadas
 
-## How to test 
+## How to test dsadsa
 
-Explain how to use your project 
+Explain how to use your project dsada
 
-## External hardware 
+## External hardware dsadsa
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any 
+List external hardware used in your project (e.g. PMOD, LED display, etc), if any dsadas
